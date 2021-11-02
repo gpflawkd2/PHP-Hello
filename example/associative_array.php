@@ -15,7 +15,7 @@ echo $grades['sorialgi'];
 echo '<br />';
 
 foreach($grades as $key => $value){
-    echo "key: {$key} value:{$value}<br />";
+    echo "key: {$key} value: {$value}<br />";
 }
 
 ?>
