@@ -1,17 +1,5 @@
 <?php
 
-/*
-배열(https://www.php.net/manual/en/ref.array.php)
-*/
-
-//php 5.4 이전 버전에서는 아래와 같이 사용해야함
-//$member = array('egoing', 'k8805', 'sorialgi');
-
-$member = ['egoing', 'k8805', 'sorialgi'];
-
-//echo $member[0].'<br />';
-//echo $member[1].'<br />';
-
 function get_members(){
     return ['egoing', 'k8805', 'sorialgi'];
 }
