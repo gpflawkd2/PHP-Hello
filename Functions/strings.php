@@ -1,5 +1,9 @@
 <?php
 /**
+ * http://docs.php.net/manual/en/book.strings.php
+ */
+
+/**
  * Add slashes at Quotes
  */
 
