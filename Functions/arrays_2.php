@@ -36,7 +36,4 @@ $li = ['c', 'e', 'a', 'b', 'd', 'z'];
 //array_shift($li);
 array_pop($li);
 rsort($li);
-
-var_dump($li);
-
 ?>
