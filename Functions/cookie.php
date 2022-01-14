@@ -5,7 +5,7 @@
 
 /**
  * Cookie
- * 브라우저에 저장되는  데이터
+ * 브라우저에 저장되는 데이터
  */
 
 setcookie('myCookie', 'Hello, world');
