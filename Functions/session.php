@@ -83,5 +83,4 @@ session_commit();
  */
 session_regenerate_id();
 
-
 ?>
